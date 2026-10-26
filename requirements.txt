@@ -1,0 +1,10 @@
+# Data processing
+pandas
+numpy
+pyspark
+
+# Machine learning
+scikit-learn
+
+# Experiment tracking and model registry
+mlflow
